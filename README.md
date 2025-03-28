@@ -89,7 +89,6 @@ src/
 ### Portion Size Adjustment
 - Dynamic portion size control
 - Automatic recalculation of ingredient quantities
-- Support for mixed numbers and fractions (e.g., "3 1/2 tsp")
 - Maintains recipe proportions
 
 ### Responsive Design

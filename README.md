@@ -2,7 +2,7 @@
 
 A modern React application for discovering and managing your favorite recipes. Built with TypeScript, Tailwind CSS, and Tanstack Query.
 
-[Live DEMO](recipe-app-hazel-theta.vercel.app)
+[Live DEMO](https://recipe-app-hazel-theta.vercel.app)
 
 ## Features
 
